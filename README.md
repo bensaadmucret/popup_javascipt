@@ -6,4 +6,4 @@ script **simple et léger ** pour crée une pop'up
 -  le **1er** propose de partisipé a un jeu 💾
 -  le **second** ~ propose de rejouer plus tard~
 -  le **3eme** d'annule
--  création automatique d'un cookies pour sauvegarder le choix de l'utilisateur✍️
+-  création automatique d'un cookie pour sauvegarder le choix de l'utilisateur✍️
