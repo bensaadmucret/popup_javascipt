@@ -1,5 +1,5 @@
 # Hey there 👋
-script **simple et léger ** pour crée un pop'up 
+script **simple et léger ** pour crée une pop'up 
 
 ### fonctionnalité de la pop'up 🦊
 -  3 bouton 🔉 👉
