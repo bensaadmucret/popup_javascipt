@@ -33,7 +33,7 @@ window.onload = function () {
       if (result.isConfirmed) {
         document.cookie = "user=nonMerci; path=/; expires=" + date + "path=/";
         window.location =
-          " https://www.formulaire-en-ligne.com/go/jeu-concours-itga-diaginbox-concours-dib/";
+          " https://www.exemple-du-jeu.fr";
       } else if (result.isDenied) {
         Swal.fire("d'accord la prochaine fois ;)", "", "info");
       } else {
