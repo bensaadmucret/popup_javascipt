@@ -1,4 +1,6 @@
 window.onload = function () {
+
+
   var tablecookie = document.cookie.split(";");
   var nomcookie = "user=";
   var valeurcookie = "";
@@ -10,12 +12,19 @@ window.onload = function () {
       );
     }
   }
-  console.log(valeurcookie);
+ 
+ console.log(valeurcookie); 
 
-  let page = document.getElementById("mymodal");
+
+  const page =  document.getElementById("mymodal");
+    console.log(page);
+  //const page = document.getElementById("mymodal");
   let date = new Date(Date.now() + 86400000); //86400000ms = 1 jour
   date = date.toUTCString();
+  
 
+  
+if(page !== null){
   if (valeurcookie != "nonMerci") {
     Swal.fire({
       title: "<strong>HTML <u>POPUP EXEMPLE</u></strong>",
@@ -43,3 +52,5 @@ window.onload = function () {
     });
   }
 };
+}
+  
