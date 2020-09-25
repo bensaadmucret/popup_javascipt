@@ -7,4 +7,4 @@ script **simple et léger ** pour crée une pop'up
 -  le **second** ~ propose de rejouer plus tard~
 -  le **3eme** d'annule
 -  création automatique d'un cookie pour sauvegarder le choix de l'utilisateur✍️
--  Bibiothéque : 👉 https://sweetalert2.github.io/
+-  Bibliothèque : 👉 https://sweetalert2.github.io/
