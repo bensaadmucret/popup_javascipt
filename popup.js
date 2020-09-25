@@ -13,7 +13,7 @@ window.onload = function () {
     }
   }
  
- console.log(valeurcookie); 
+
 
 
   const page =  document.getElementById("mymodal");
